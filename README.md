@@ -1,5 +1,5 @@
-# 👋 Hola, soy [@BrayanDevM](https://github.com/BrayanDevM)
-- 👀 Estoy interesado en trabajar y expandir mis conocimientos en una empresa de desarrollo de software.
-- 🌱 Actualmente estoy especializandome en Angular, NodeJS, MongoDB y desarrollo web con HTML5.
-- 🤔 Estoy interesado en estudiar React, Dart (Flutter) y Python.
-- 📫 Puedes contactarme en bdevia95@gmail.com
+# 👋 Hi, i'm [@BrayanDevM](https://github.com/BrayanDevM)
+- 👀 I am interested in working and expanding my knowledge in a software development company.
+- 🌱 I am currently specializing in Angular, NodeJS with Nestjs and MongoDB.
+- 🤔 I am interested in studying React, Dart (Flutter).
+- 📫 You can contact me at bdevia95@gmail.com
